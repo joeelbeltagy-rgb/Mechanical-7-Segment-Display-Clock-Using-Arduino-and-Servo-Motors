@@ -1,7 +1,3 @@
-//Michael Klements
-//The DIY Life
-//8 February 2020
-
 #include <virtuabotixRTC.h>               //Include library for clock module
 #include <Adafruit_PWMServoDriver.h>      //Include library for servo driver
 
