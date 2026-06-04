@@ -1,0 +1,7 @@
+# Duplicate files
+*.txt
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
